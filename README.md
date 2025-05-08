@@ -47,4 +47,6 @@
 
 ### 🧭 Vision
 
+[@cha1nvanguard](https://github.com/cha1nvanguard/)
+
 Believer in a decentralized, censorship-resistant, and trustless future. Let's build systems that empower people — not gatekeepers.
